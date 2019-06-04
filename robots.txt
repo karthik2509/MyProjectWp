@@ -1,5 +1,6 @@
 # www.robotstxt.org/
 #vanakam
+#kalai vanakam
 # Allow crawling of all content
 User-agent: *
 Disallow:
